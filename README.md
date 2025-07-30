@@ -28,8 +28,8 @@
 
 # 프로젝트 계획서
 <details>
-  <summary> ☑️ 프로젝트 계획서 보러가기  </summary>
-  <계획서 링크>
+  <summary>☑️ 프로젝트 계획서 보러가기</summary>
+  <a href="./docs/01%20프로젝트%20계획서.pdf" target="_blank"> 01_프로젝트_계획서.pdf</a>
 </details>
 
 ## 1. 프로젝트 개요
@@ -54,7 +54,8 @@
 # 요구사항 정의서
 <details>
   <summary> ☑️ 요구사항 정의서 보러가기  </summary>
-  <계획서 링크>
+  <a href="./docs/02%20요구사항%20정의서.xlsx" target="_blank"> 02_요구사항_정의서.xlsx</a>
+  <img width="1872" height="655" alt="CH팀_JOB자_발표자료_0726 (1)" src="https://github.com/user-attachments/assets/9f0a3a60-fda9-4d42-bfe7-546b424f4b10" />
 </details>
     
 <details>
@@ -110,7 +111,7 @@
 # WBS
 <details>
   <summary> ☑️ WBS 보러가기  </summary>
-  <계획서 링크>
+  <a href="./docs/03%20WBS_%EC%9D%BC%EC%A0%95.xlsx" target="_blank"> 03_WBS_일정.xlsx</a>
     <img width="1776" height="722" alt="CH팀_JOB자_발표자료_0726" src="https://github.com/user-attachments/assets/49c2579c-dcf5-421b-af6e-658cc346696a" />
 </details>
     
